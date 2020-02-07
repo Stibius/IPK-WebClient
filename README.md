@@ -15,11 +15,11 @@ Vytvořte program v jazyce C/C++, který je  přeložitelný na studentském uni
 
     webclient http://www.fit.vutbr.cz
 
-stáhne defaultní stránku a uloží do souboru index.html
+Stáhne defaultní stránku a uloží do souboru index.html.
 
     webclient http://www.fit.vutbr.cz:80/common/img/fit_logo_cz.gif
     
-stáhne a uloží obrázek fit_logo_cz.gif do souboru v aktuálním adresáři
+Stáhne a uloží obrázek fit_logo_cz.gif do souboru v aktuálním adresáři.
     
 ### Hodnocení: 
 
